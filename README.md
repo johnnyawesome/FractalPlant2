@@ -1,5 +1,5 @@
 # FractalPlant2
-Another Fractal Plant coded in P5JS using an L-System
+A [Fractal Plant](https://en.wikipedia.org/wiki/Fractal) coded in [P5JS](https://p5js.org/) using a [L-System](https://en.wikipedia.org/wiki/L-system)
 
 It's nicely animated:
 
